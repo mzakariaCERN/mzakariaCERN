@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, data science, Financial analysis
 - 🌱 I’m currently learning pulling financial data using python
 - 💞️ I’m looking to collaborate on creating apps for ML algorithms
-- 📫 How to reach me m.k.zakaria@gmail.com
+
 
 <!---
 mzakariaCERN/mzakariaCERN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
